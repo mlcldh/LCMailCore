@@ -1,3 +1,3 @@
-# LCMailCore
-调用MailCore实现邮件功能。
+# MengMailCore
+调用MailCore sdk实现邮件功能。
 
