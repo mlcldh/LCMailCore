@@ -1,2 +1,3 @@
 # LCMailCore
-将MailCore封装成pods使用。
+调用MailCore实现邮件功能。
+
